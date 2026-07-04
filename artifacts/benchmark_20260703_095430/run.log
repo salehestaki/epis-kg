@@ -1,0 +1,10 @@
+{"ts": "2026-07-03T09:54:30.393242+00:00", "event": "benchmark_start", "llm_provider": "deepseek", "llm_model": "deepseek-v4-flash", "test_limit": 1267, "val_limit": 120, "trials": 60, "concurrency": 9, "n_boot": 2000, "out_dir": "artifacts", "min_success_rate": 0.5}
+{"ts": "2026-07-03T09:54:30.428157+00:00", "event": "dataset_loaded", "test": 1267, "validation": 120}
+{"ts": "2026-07-03T09:54:30.447351+00:00", "event": "pipeline_start", "split": "test", "rows": 1267, "cached": 318}
+{"ts": "2026-07-03T12:53:41.598815+00:00", "event": "pipeline_done", "split": "test", "seconds": 10751.2, "requested": 1267, "scored_ok": 1252, "invalid": 15, "errors": 0, "failed": 15, "success_rate": 0.9882}
+{"ts": "2026-07-03T12:53:41.599065+00:00", "event": "pipeline_start", "split": "validation", "rows": 120, "cached": 0}
+{"ts": "2026-07-03T13:15:17.522949+00:00", "event": "pipeline_done", "split": "validation", "seconds": 1295.9, "requested": 120, "scored_ok": 120, "invalid": 0, "errors": 0, "failed": 0, "success_rate": 1.0}
+{"ts": "2026-07-03T13:15:34.051616+00:00", "event": "eval_default", "n": 1252, "pearson_r": 0.5345474966929927, "pearson_p": 1.924708655448687e-93, "spearman_r": 0.49910734869143036, "auc_roc": 0.7957045315402256, "threshold": 0.5, "pearson_ci95": [0.4918, 0.5724], "auc_ci95": [0.7713, 0.8194]}
+{"ts": "2026-07-03T13:15:35.063959+00:00", "event": "tuning_done", "trials": 60, "best_pearson": 0.5644, "alpha": 0.5736904245506146, "beta": 0.595928145637735, "gamma": 0.9169851523345904, "lambda_": 0.28184256316799006, "prior_strength": 11.398434980682964}
+{"ts": "2026-07-03T13:15:39.106001+00:00", "event": "eval_tuned", "n": 1252, "pearson_r": 0.535032272889094, "pearson_p": 1.221400234509511e-93, "spearman_r": 0.4980855808702619, "auc_roc": 0.7939482613703577, "threshold": 0.5, "pearson_ci95": [0.4923, 0.5736], "auc_ci95": [0.7696, 0.8173]}
+{"ts": "2026-07-03T13:15:39.114641+00:00", "event": "benchmark_complete", "out_dir": "artifacts\\benchmark_20260703_095430"}

@@ -1,0 +1,62 @@
+{
+  "prior_coverage": 1.0,
+  "conditions": {
+    "A_neutral_default": {
+      "weights": "default",
+      "n": 1252,
+      "pearson_r": 0.1602623843817196,
+      "pearson_p": 1.1848609481512848e-08,
+      "spearman_r": 0.14512794799217407,
+      "auc_roc": 0.5458277558135916,
+      "threshold": 0.5,
+      "pearson_ci95": [
+        0.1049,
+        0.2129
+      ],
+      "auc_ci95": [
+        0.5242,
+        0.5672
+      ]
+    },
+    "B_credibility_default": {
+      "weights": "default",
+      "n": 1252,
+      "pearson_r": 0.535032272889094,
+      "pearson_p": 1.221400234509511e-93,
+      "spearman_r": 0.4980855808702619,
+      "auc_roc": 0.7939482613703577,
+      "threshold": 0.5,
+      "pearson_ci95": [
+        0.4923,
+        0.5736
+      ],
+      "auc_ci95": [
+        0.7696,
+        0.8173
+      ]
+    },
+    "C_credibility_tuned": {
+      "weights": {
+        "alpha": 0.5756692636342126,
+        "beta": 1.295792508780794,
+        "gamma": 0.8360488684146635,
+        "lambda_": 0.2055624017537818,
+        "prior_strength": 11.977346675391301
+      },
+      "n": 1252,
+      "pearson_r": 0.5341804426223778,
+      "pearson_p": 2.714539020738578e-93,
+      "spearman_r": 0.4974624961111182,
+      "auc_roc": 0.7935072481814692,
+      "threshold": 0.5,
+      "pearson_ci95": [
+        0.4914,
+        0.5725
+      ],
+      "auc_ci95": [
+        0.7689,
+        0.817
+      ]
+    }
+  }
+}

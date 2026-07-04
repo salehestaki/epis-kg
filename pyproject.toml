@@ -1,0 +1,64 @@
+[project]
+name = "epis-kg-workspace"
+version = "1.0.0"
+description = "Epistemic Erosion Knowledge Graph (Epis-KG): a neuro-symbolic platform that quantifies epistemic decay in digital communication networks."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+authors = [{ name = "Epis-KG contributors" }]
+
+# This root project is a uv workspace. The concrete runnable code lives in the
+# member packages/ and services/ listed below. See `uv` docs for workspaces.
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.2",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.6",
+    "mypy>=1.11",
+    "black>=24.8",
+    "types-redis>=4.6",
+]
+
+[tool.uv.workspace]
+members = [
+    "packages/*",
+    "services/*",
+]
+
+[tool.uv.sources]
+graph-schema = { workspace = true }
+epistemic-math = { workspace = true }
+observability = { workspace = true }
+evaluation = { workspace = true }
+ingestion-service = { workspace = true }
+agentic-reasoning = { workspace = true }
+graph-layer = { workspace = true }
+api-gateway = { workspace = true }
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["frontend", "Guide"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "ASYNC"]
+ignore = ["B008"]  # FastAPI Depends() in defaults is idiomatic
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.mypy]
+python_version = "3.11"
+warn_unused_configs = true
+disallow_untyped_defs = true
+ignore_missing_imports = true
+plugins = ["pydantic.mypy"]
+exclude = ["frontend", "Guide", "build", "dist"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["packages", "services"]
+python_files = ["test_*.py"]

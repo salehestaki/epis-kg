@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "timestamp": "20260703_095430",
+    "git_commit": "9d1008c632bf08673e4e69d993e864018d2c5617",
+    "python": "3.14.6",
+    "platform": "Windows-10-10.0.19045-SP0",
+    "llm_provider": "deepseek",
+    "llm_model": "deepseek-v4-flash",
+    "consensus_mode": "false",
+    "packages": {
+      "datasets": "5.0.0",
+      "optuna": "4.9.0",
+      "scikit-learn": "1.9.0",
+      "scipy": "1.18.0",
+      "numpy": "2.5.0",
+      "openai": "2.44.0"
+    },
+    "config": {
+      "test_limit": 1267,
+      "val_limit": 120,
+      "trials": 60,
+      "concurrency": 9,
+      "n_boot": 2000,
+      "out_dir": "artifacts",
+      "min_success_rate": 0.5
+    },
+    "dataset": {
+      "test": {
+        "n": 1267,
+        "labels": {
+          "true": 208,
+          "false": 249,
+          "half-true": 265,
+          "pants-fire": 92,
+          "barely-true": 212,
+          "mostly-true": 241
+        }
+      },
+      "validation": {
+        "n": 120,
+        "labels": {
+          "barely-true": 24,
+          "pants-fire": 12,
+          "false": 23,
+          "half-true": 28,
+          "true": 15,
+          "mostly-true": 18
+        }
+      }
+    },
+    "reliability": {
+      "test": {
+        "requested": 1267,
+        "scored_ok": 1252,
+        "invalid": 15,
+        "errors": 0,
+        "failed": 15,
+        "success_rate": 0.9882
+      },
+      "validation": {
+        "requested": 120,
+        "scored_ok": 120,
+        "invalid": 0,
+        "errors": 0,
+        "failed": 0,
+        "success_rate": 1.0
+      }
+    }
+  },
+  "results": {
+    "default_weights": {
+      "alpha": 0.5,
+      "beta": 0.35,
+      "gamma": 0.15,
+      "lambda_": 0.05,
+      "prior_strength": 4.0,
+      "n": 1252,
+      "pearson_r": 0.5345474966929927,
+      "pearson_p": 1.924708655448687e-93,
+      "spearman_r": 0.49910734869143036,
+      "auc_roc": 0.7957045315402256,
+      "threshold": 0.5,
+      "pearson_ci95": [
+        0.4918,
+        0.5724
+      ],
+      "auc_ci95": [
+        0.7713,
+        0.8194
+      ]
+    },
+    "tuned_weights": {
+      "alpha": 0.5736904245506146,
+      "beta": 0.595928145637735,
+      "gamma": 0.9169851523345904,
+      "lambda_": 0.28184256316799006,
+      "prior_strength": 11.398434980682964,
+      "n": 1252,
+      "pearson_r": 0.535032272889094,
+      "pearson_p": 1.221400234509511e-93,
+      "spearman_r": 0.4980855808702619,
+      "auc_roc": 0.7939482613703577,
+      "threshold": 0.5,
+      "pearson_ci95": [
+        0.4923,
+        0.5736
+      ],
+      "auc_ci95": [
+        0.7696,
+        0.8173
+      ]
+    },
+    "tuning_validation_pearson": 0.5644172693155333
+  }
+}

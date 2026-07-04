@@ -1,0 +1,2839 @@
+[
+  {
+    "truth_score": 0.4,
+    "statement": "We have less Americans working now than in the 70s.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "When Obama was sworn into office, he DID NOT use the Holy Bible, but instead the Kuran (Their equivalency to our Bible, but very different beliefs).",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.12674418604651164,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.9,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.12674418604651164,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.9,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.12674418604651164,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.9,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Says Having organizations parading as being social welfare organizations and then being involved in the political combat harkens back to why the statute a hundred years ago said that they were prohibited.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says nearly half of Oregons children are poor.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "On attacks by Republicans that various programs in the economic stimulus plan are not stimulative, \"If you add all that stuff up, it accounts for less than 1 percent of the overall package.\"",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5678646934460888,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Says when armed civilians stop mass shootings with guns, an average of 2.5 people die; otherwise, an average of 18 people die.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.46666666666666673,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Says Tennessee is providing millions of dollars to virtual school company for results at the bottom of the bottom.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "The health care reform plan would set limits similar to the socialized system in Britain, where people are allowed to die if their treatment would cost more than $22,000.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.44,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.8,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.44,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.8,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Says Donald Trump started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5610859728506787,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Bill White has a long history of trying to limit or even disenfranchise military voters.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.48888888888888893,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "John McCains chief economic adviser during the 08 race estimated that Trumps promises would cause America to lose 3.5 million jobs.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6048780487804878,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Says 21,000 Wisconsin residents got jobs in 2011, but 18,000 of them were in other states.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "State revenue projections have missed the mark month after month.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "The median income of a middle class family went down $2,100 from 2001 to 2007.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5129032258064516,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Every citizen is entitled to the freedom of speech, but no one should have the right to use government funds or institutions to portray acts that are morally reprehensible to the vast majority of Americans.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.41111111111111115,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            false
+          ],
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.41111111111111115,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            false
+          ],
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Rick Perry has advocated abandoning Social Security, scuttling Medicaid and ending the federal income tax.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Two thirds to three quarters of people without [health] insurance in Rhode Island work.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Congress has spent 66 of the first 100 days of this term in recess.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.7,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Mark Sharpe has lowered property taxes by 17 percent.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Says Iowa Gov. Terry Branstad chartered a plane to remove 124 young illegal immigrants from his state and take them back to Honduras.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.12674418604651164,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "If you dont buy cigarettes at your local supermarket, your grocery bill wont go up a dime. The same is true of the sugary drink tax. If passed, you can avoid paying the tax by not buying sugary drinks.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Says President Barack Obama has said that everybody should hate the police.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.43500000000000005,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.8,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Georgia has had \u02bamore bank failures than any other state.\u02ba",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.48,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Bank of America could create 878,300 jobs with benefits if they spent their 2010 bonuses on job creation.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2872340425531915,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Thom Tillis cut almost $500 million from education.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "If people work and make more money, they lose more in benefits than they would earn in salary.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5054263565891474,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "We are poised to get rid of over 1,000 more regulations in 2012.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5061538461538463,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "A flight from Atlanta to Houston was canceled due to a terrorist dry run.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2872340425531915,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Administrative employees at colleges and universitieshave more than doubled over the last 25 years, outpacing the growth of students by more than 2 to 1.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5054263565891474,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Private prison systems are calculating how many new beds (they will need) based on the ... number of third graders.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.3333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Amendment 1 protects Florida seniors from scams and rip-offs.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "If Barack Obama would apply for a job with the FBI or with the Secret Service, he would be disqualified because of his past associations with William Ayers.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.12674418604651164,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "We have more kids take the SAT than any other state in the nation. I mean a high percentage of our kids take the SAT.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.43076923076923085,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.43076923076923085,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Walker says hes for lower taxes. But Milwaukee County spending has gone up by $349 million.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4608695652173913,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4608695652173913,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Says he did not say Republicans would filibuster immigration reform.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5777777777777778,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Worldwide credit card transactions, the credit card fraud rate is 0.04 percent, compared to almost 8 percent, 9 percent, 10 percent of Medicare fraud.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "In the month of January, Canada created more new jobs than we did.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.46136363636363636,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Under his leadership, more people in Wisconsin have access to health care.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4653333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Charlie Crist attacks me for positions he held, like, six months ago, (when) he was running in the Republican primary.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5054263565891474,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says Donald Trumps only economic agenda is imposing massive taxes on the American people with a 40 percent tax hike of a giant tariff.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4072072072072072,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ],
+          [
+            0.5,
+            false
+          ],
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "The loan guarantee program that helped Solyndra was a program that was supported by President Bush.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6666666666666666,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Says President Obama just granted all of Congress an exception to Obamacare.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4072072072072072,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Bill McCollumhas \"recovered $200 million in Medicaid fraud.\"",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5723076923076924,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Despite the U.S. spending $10 billion on Iraqs electrical system, Baghdad still only gets five hours of electricity a day.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Tim Kaine urged$500 billion in Medicare cuts.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.38571428571428573,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Over 3 million Americans are employed in the growing green-collar workforce, which is more than the number of people working in the fossil fuel industry.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.49523809523809526,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Because of the steps we took, there are about 2 million Americans working right now who would otherwise be unemployed.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5678646934460888,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Says that In 2009, I saved ratepayers around $500 million by persuading the Council to pursue a less expensive compliance mechanism if the City is required to treat Bull Run drinking water.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.55,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.55,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.55,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "The military has spent $500 million enforcing the Dont Ask, Dont Tell policy regarding gays and lesbians in the military.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Were. . . keeping and creating jobs in our state. From American Greetings, to Wendys, to Diebold, weve gone to their doorsteps to keep jobs right here in Ohio.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Obama for President and Baldwin for Senate have kept their campaign offices up and running in Fox Valley, Eau Claire and La Crosse with their staffs preparing for the next battle.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4653333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.4653333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "From 2003 to 2006, Sesame Street made more than $211 million from toy and consumer product sales.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2666666666666667,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "(John) Kasich was the architect who balanced the budget, cut spending, created a surplus, igniting record job creation.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "The federal government is going after school districts, trying to force them to let boys shower with little girls.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4072072072072072,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.8,
+            true
+          ],
+          [
+            0.7,
+            false
+          ],
+          [
+            0.7,
+            false
+          ],
+          [
+            0.9,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Says that President Obama said in 2008 that his proposed greenhouse gas regulations will bankrupt anyone who wants to build a new coal-fired power plant.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "There has been $5 trillion in debt added over the last four years.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says that under Gov. Rick Perry, Texas Department of Public Safety troopers have had standing orders not to inquire into the immigration status of people unless theyre under arrest.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "(Dennis) Richardson wants to make drastic cuts to services we depend on: schools, home care for seniors, even public safety -- all so Richardson can keep more than $440 million in unspent funds for his political priorities.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6500000000000001,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.7,
+            true
+          ],
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Nobody covered the remarks of Patricia Smith, the mother of a Benghazi victim, live, but almost everybody covered KhizrKhans, Mr. Khans remarks live.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.13333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.13333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "The cost of the food stamp program is at an all-time high.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2872340425531915,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says opponent Mary Burke says she supports Obamacare unequivocally and wants to expand it.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4653333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says Essex County residents suffer the second highest property taxes in the nation.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Ken Lanci is a lifelong Clevelander",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Originally, Democrats promised that if you liked your health care plan, you could keep it. One year later we know that you need a waiver to keep your plan.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.3666666666666667,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.3666666666666667,
+        "n_support": 0,
+        "contradictions_in_degree": 1,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Says Carlos Lopez-Cantera even voiced enthusiastic support for bringing an Arizona-style immigration law to Florida, calling the measure common sense.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.30000000000000004,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Says that when Democrats controlled Congress and the White House, federal spending as a share of the Gross Domestic Product leapt from 18.2 percent in 2001 to 25.2 percent in 2009 -- the largest such increase in any eight-year period since World War II.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.45882352941176463,
+        "n_support": 1,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ],
+          [
+            0.4,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.45882352941176463,
+        "n_support": 1,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ],
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "The CBOs latest report confirms what Republicans have been saying for years now. Under Obamacare, millions of hardworking Americans will lose their jobs.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.38518518518518524,
+        "n_support": 1,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.7,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.38518518518518524,
+        "n_support": 1,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.7,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "The U.S. Supreme Court is five guys who start determining what contraceptions are legal.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.41538461538461535,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says Wisconsin Gov. Scott Walker slashed pensions and benefits for public employees.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4666666666666666,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Adding ethanol to gas raises food costs.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Says Mitt Romney once supported President Obamas health care plan but now opposes it.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5714285714285714,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5714285714285714,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "The USAFreedom Act undercuts privacy becausethe phone records will be in the hands of the phone companies with hundreds of people available to look at the records, versus 20 or 30 people in the government.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.52,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.7,
+            true
+          ],
+          [
+            0.4,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.52,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.7,
+            true
+          ],
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "The people who were running the budget, in the Corzine years, decided to steal from the unemployment trust fund. As did other Governors before. We simply dont do that, havent done it, and wont permit it.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "You can import as many hemp products into this country as you want...but we cant grow it.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Says Gina Raimondos venture capital firm secured a secret no-bid contract funded by taxpayers.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5428571428571429,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "We spend more money on antacids than we do on politics.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.37307692307692314,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Mitt Romney has proposed cutting his own taxes while raising them on 18 million working families.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5678646934460888,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5678646934460888,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Social Security is a Ponzi scheme.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.43076923076923085,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.7,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says Pennsylvania charges a top income tax rate of 3 percent and Delaware has no state income tax at all.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Jeff Greene can buy anything ... he owns two mansions.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4142857142857143,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4142857142857143,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Says Elizabeth Warren lied when she says I want to abolish the Federal Minimum Wage.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.3319018404907975,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Obama says his health care plan is \"universal.\"",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5678646934460888,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Brendan Doherty wants to repeal Obamacare, increasing drug prices for seniors.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4666666666666667,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Abortion coverage is a standard insurance benefit in nearly 90 percent of private plans sold in the U.S.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Since we last debated in Las Vegas, nearly 3,000 people have been killed by guns.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5610859728506787,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Toledo is fourth in the nation behind much bigger cities Miami, Las Vegas, Portland in number of human trafficking arrests and rescues.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "94 percent of winning candidates in 2010 had more money than their opponents.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 1,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Barack Obama and Joe Biden oppose new drilling at home and oppose nuclear power.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.47333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.47333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.47333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.47333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "President Obama went around the world and apologized for America.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.46136363636363636,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says the federal agency in charge of Medicare and Medicaid will disburse $803 billion in benefits this year, making it larger than all but 15 of the worlds economies.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.7000000000000001,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.7000000000000001,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Marco Rubio \"supported $800,000 for AstroTurf for a field where he played flag football.\"",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5384615384615384,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "The Republican leadership in the House has refused to address the issues that matter the most to Rhode Island, such as passing a jobs bill.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.0,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "The dollar has fallen over 44% since Bernanke began pumping money into the system beginning back in 2002.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Congress will begin its recess without having allocated one penny to fight Zika.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5610859728506787,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "I am the only candidate on either side who has laid out a specific plan about what I would do to defeat ISIS.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5610859728506787,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "The new health care law will cut $500 billion from Medicare. That will hurt the quality of our care.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.26666666666666666,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.26666666666666666,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "President Obama once said he wants everybody in America to go to college.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4037735849056604,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "Before this law, any group could go out anywhere, register voters, sit on the voter registration forms for unlimited amount of time.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.44000000000000006,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.44000000000000006,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.44000000000000006,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "The results of Atlanta Public Schools 2010 and 2011 CRCT tests have not been questioned.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.13333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Ed Gillespie would not mention (Donald Trumps) name unless he was condemning him.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.3333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.4,
+    "statement": "The delay inschool testingwas not that of a vendor, the problem was not that of the test materials itself,it was the product of a cyber attack.",
+    "label": "barely-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Democrats already agreed to a deal that Republicans wanted, that Eric Cantor said would be a win.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.3,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "One of the main functions of the Department of Homeland Securitys SAVE database is checking voter registration citizenship status.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Eight of the nine justices in the Supreme Court decision (on campaign finance) said that not only is it constitutional for Congress to require disclosure of the special interest money, but they recommend we do it.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5333333333333334,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "The reality is, we are holding some of the most dangerous terrorists in the world right now in our federal prisons, including the mastermind of the 1993 World Trade Center bombing, the 'shoe bomber,' the 'Unabomber,' and many others.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.25,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Barack Obama is the First President to terminate Americas ability to put a man in space.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.12674418604651164,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "Says George Washington said a free people should be armed to guard against government tyranny.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.26,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ],
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Under the new and little known 'global justice' initiative, the Obama administration has ordered FBI agents to \"read Miranda Rights to high-value terrorist detainees captured on the battlefield.\"",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.47333333333333333,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "Wholly domestic communication between you and your wife can go to New York to London and back and get caught up in the (NSA) database.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.8,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Says for every dollar the state spent on audits last year, it delivered $64 in cost savings.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "When I was governor, not only did test scores improve we also narrowed the achievement gap.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.46136363636363636,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      },
+      {
+        "a_priori_credibility": 0.46136363636363636,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Georgia is nearly 50 percent Democratic and (the Republican majority) diminished our voting strength to 32 percent through gerrymandered maps.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.6,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Says a Republican hasnt won [an election] for a presidency in New Jersey since 1988.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4790123456790124,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "40 percent of illegal immigrants had a visa and then became illegal, mostly because they changed jobs.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.6,
+    "statement": "Says Ted Cruz slurred Republican senators including John Cornyn as graybeards and spineless jellyfish.",
+    "label": "half-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.41111111111111115,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.41111111111111115,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.41111111111111115,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.41111111111111115,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.0,
+    "statement": "Says Mary Landrieu voted to fund benefits for illegal immigrants ahead of veterans.",
+    "label": "pants-fire",
+    "claims": [
+      {
+        "a_priori_credibility": 0.1,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.6,
+            false
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 1.0,
+    "statement": "Despite having their budget increased by over 40 percent since 2009 pending claims for benefits with the (Department of Veterans Affairs) have increased from 391,000 to 890,000 under the Obama Administration.",
+    "label": "true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.4857142857142857,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.4857142857142857,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.5,
+            true
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "U.S. Rep. John Barrow, D-Ga., does not want to audit the Federal Reserve.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.2,
+    "statement": "This unit is the only one in the state that strives to implement the principles of Mother-Friendly care as outlined by the national Coalition for Improving Maternity Services Mother-Friendly Childbirth Initiative.",
+    "label": "false",
+    "claims": [
+      {
+        "a_priori_credibility": 0.2,
+        "n_support": 1,
+        "contradictions_in_degree": 0,
+        "total_degree": 2,
+        "age_days": 0.0,
+        "rhetoric": []
+      }
+    ]
+  },
+  {
+    "truth_score": 0.8,
+    "statement": "I am going to be on the ballot in all 50 states. There is no other third-party candidate thats going to come close to achieving that.",
+    "label": "mostly-true",
+    "claims": [
+      {
+        "a_priori_credibility": 0.5875,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            false
+          ]
+        ]
+      },
+      {
+        "a_priori_credibility": 0.5875,
+        "n_support": 0,
+        "contradictions_in_degree": 0,
+        "total_degree": 1,
+        "age_days": 0.0,
+        "rhetoric": [
+          [
+            0.4,
+            false
+          ]
+        ]
+      }
+    ]
+  }
+]

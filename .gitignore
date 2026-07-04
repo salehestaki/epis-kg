@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.uv/
+uv.lock
+
+# Testing / coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Environments / secrets
+.env
+.env.local
+*.local
+
+# Node / Next.js
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Neo4j / data
+data/
+neo4j/data/
+neo4j/logs/
+*.dump
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Evaluation working cache (intermediate)
+artifacts/_signal_cache/
+
+# Any env file or copy that may contain secrets (keep only the template)
+*.env
+!.env.example
+* - Copy*
+artifacts/progress.json
+
+# AI-assistant metadata / editor tooling
+.claude/
+
+# Manuscripts, paper drafts, and rendered artifacts (kept out of the code repo)
+*.tex
+*.pdf
+*.bib
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz

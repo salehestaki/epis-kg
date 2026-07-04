@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "@xyflow/react/dist/style.css";
+
+/* Light "cafe cream" theme (default) */
+:root {
+  --cafe-bg: 243 236 221;
+  --cafe-surface: 251 246 236;
+  --cafe-raised: 255 253 248;
+  --cafe-border: 228 216 194;
+  --cafe-line: 216 199 169;
+  --cafe-ink: 58 51 42;
+  --cafe-muted: 140 127 107;
+  --cafe-accent: 169 116 79;
+  --cafe-accent-dark: 142 94 61;
+  --cafe-good: 123 138 90;
+  --cafe-warn: 198 138 62;
+  --cafe-danger: 180 91 74;
+
+  --edge: 176 142 82; /* readable warm line on cream */
+  --edge-width: 1.8;
+  --dots: 221 206 177;
+  color-scheme: light;
+}
+
+/* Dark "night cafe" theme */
+.dark {
+  --cafe-bg: 27 23 18;
+  --cafe-surface: 36 30 24;
+  --cafe-raised: 44 37 29;
+  --cafe-border: 58 49 40;
+  --cafe-line: 74 63 50;
+  --cafe-ink: 237 228 211;
+  --cafe-muted: 169 156 134;
+  --cafe-accent: 214 155 110;
+  --cafe-accent-dark: 192 136 87;
+  --cafe-good: 157 176 110;
+  --cafe-warn: 224 168 78;
+  --cafe-danger: 224 122 99;
+
+  --edge: 138 120 92; /* readable warm line on espresso */
+  --edge-width: 2;
+  --dots: 74 63 50;
+  color-scheme: dark;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background: rgb(var(--cafe-bg));
+  color: rgb(var(--cafe-ink));
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+main {
+  height: 100%;
+}
+
+/* Subtle warm scrollbars */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--cafe-line));
+  border-radius: 8px;
+  border: 2px solid rgb(var(--cafe-bg));
+}
+
+/* React Flow surface tweaks — quiet, warm, theme-aware */
+.react-flow__attribution {
+  background: transparent;
+  color: rgb(var(--cafe-muted) / 0.6);
+}
+.react-flow__controls {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08), 0 6px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.react-flow__controls-button {
+  background: rgb(var(--cafe-surface));
+  border-bottom: 1px solid rgb(var(--cafe-border));
+  color: rgb(var(--cafe-ink));
+}
+.react-flow__controls-button:hover {
+  background: rgb(var(--cafe-raised));
+}
+.react-flow__controls-button svg {
+  fill: rgb(var(--cafe-ink));
+}
+
+/* Default (non-contradiction) edges: readable in both themes */
+.react-flow__edge.epis-edge .react-flow__edge-path {
+  stroke: rgb(var(--edge));
+  stroke-width: var(--edge-width);
+}
+.react-flow__edge.epis-edge .react-flow__edge-text {
+  fill: rgb(var(--cafe-muted));
+  font-size: 9px;
+}
+
+/* Contradiction edges: pulsing warm-red tension */
+.react-flow__edge-path.epis-contradicts {
+  stroke: rgb(var(--cafe-danger));
+  animation: pulseTension 1.6s ease-in-out infinite;
+}
+
+@keyframes pulseTension {
+  0%,
+  100% {
+    opacity: 1;
+    stroke-width: 2.2;
+  }
+  50% {
+    opacity: 0.5;
+    stroke-width: 4.5;
+  }
+}
